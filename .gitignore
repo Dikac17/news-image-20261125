@@ -1,0 +1,6 @@
+# make.fun kit (never committed)
+*-kit/
+kit/
+__pycache__/
+*.pyc
+/output/
